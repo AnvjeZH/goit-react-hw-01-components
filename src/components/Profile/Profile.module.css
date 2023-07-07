@@ -39,12 +39,10 @@
   display: flex;
   margin-top: 30px;
   justify-content: center;
-  /* column-gap: 15px; */
-
   background-color: #cbdff5;
 }
 .stats li {
-  width: 100px;
+  width: 100%;
   padding: 15px;
   border: 1px solid #b1c7e0
 }

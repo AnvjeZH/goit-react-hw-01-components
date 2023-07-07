@@ -22,7 +22,7 @@
   justify-content: center;
 }
 .item {
-  width: 50px;
+  width: 100%;
   padding: 15px;
 }
 .label {
